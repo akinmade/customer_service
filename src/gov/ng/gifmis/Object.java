@@ -62,6 +62,7 @@ public class Object {
     }
 
     public static void main(String[] args) {
+        // Fred, handle this part
         Object student = new Object();
         student.setName("Luqman");
         student.setFaculty("Information Technology & Applied Sciences");
