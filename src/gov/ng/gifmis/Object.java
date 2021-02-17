@@ -76,5 +76,6 @@ public class Object {
         System.out.println("Course of study: "+student.getCourse());
         System.out.println("Level: "+student.getLevel());
         System.out.println("Matriculation No.: "+student.getMatriculation_number());
+        System.out.println("Thanks");
     }
 }
