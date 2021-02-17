@@ -77,5 +77,6 @@ public class Object {
         System.out.println("Level: "+student.getLevel());
         System.out.println("Matriculation No.: "+student.getMatriculation_number());
         System.out.println("Thanks");
+        System.out.println("I am pushing to Fred");
     }
 }
